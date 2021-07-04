@@ -8,4 +8,4 @@ C++
 
 #### 运行截图
 
-[![Rf5scq.gif](https://z3.ax1x.com/2021/07/04/Rf5scq.gif)](https://imgtu.com/i/Rf5scq)
+[![2021-07-04%2021-00-13_1.gif](https://github.com/MoFChen/cpp2048games/raw/main/image/2021-07-04%2021-00-13_1.gif)](运行截图)
